@@ -99,3 +99,4 @@ C:\Users\Buddy\Downloads\TriangleSolver\TriangleSolver\triangleTestProject\obj\D
 C:\Users\Buddy\Downloads\TriangleSolver\TriangleSolver\triangleTestProject\obj\Debug\net8.0\ref\triangleTestProject.dll
 C:\Users\Buddy\Downloads\TriangleSolver\TriangleSolver\triangleTestProject\bin\Debug\net8.0\TriangleSolver.dll
 C:\Users\Buddy\Downloads\TriangleSolver\TriangleSolver\triangleTestProject\bin\Debug\net8.0\TriangleSolver.pdb
+C:\Users\Buddy\Downloads\TriangleSolver\TriangleSolver\triangleTestProject\obj\Debug\net8.0\triangleTestProject.sourcelink.json
